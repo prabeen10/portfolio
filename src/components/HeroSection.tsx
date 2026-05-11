@@ -68,7 +68,7 @@ const HeroSection = () => {
               View Projects <ArrowRight size={18} />
             </a>
             <a
-              href="https://drive.google.com/file/d/1OtXZ6Ud_OaKdWKaGPv9kH3S-0bLMFSD0/view?usp=drivesdk"
+              href="https://drive.google.com/file/d/17reSTXvYy_pMfL6c4c0X-gj0__0kUoTl/view?usp=drivesdk"
               download
               className="inline-flex items-center gap-2 glass-card px-5 sm:px-6 py-3 rounded-xl font-medium text-foreground hover:border-primary/50 transition-all duration-300"
             >
