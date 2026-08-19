@@ -120,7 +120,7 @@ const HeroSection = () => {
               <Linkedin size={16} />
             </a>
             <a
-              href="#"
+              href="https://github.com/prabeen10"
               aria-label="GitHub"
               className="w-10 h-10 rounded-full glass-card flex items-center justify-center text-muted-foreground hover:text-primary hover:border-primary/40 transition-colors"
             >
