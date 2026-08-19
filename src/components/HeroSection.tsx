@@ -96,7 +96,7 @@ const HeroSection = () => {
               View Projects <ArrowRight size={18} />
             </a>
             <a
-              href="/Prabeen_Kumar_Panda_Resume.pdf"
+              href="https://drive.google.com/file/d/1EgS3hR7zW8Hk0Xo9Kxk_oeiAeqYRfC3M/view?usp=sharing"
               download
               className="inline-flex items-center gap-2 glass-card px-5 sm:px-6 py-3 rounded-xl font-medium text-foreground hover:border-primary/50 transition-all duration-300"
             >
